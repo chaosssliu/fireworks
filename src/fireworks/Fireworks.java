@@ -154,6 +154,3 @@ public class Fireworks extends Applet implements MouseListener, Runnable{
 	}
 
 }
-//如果你想一下自己写要怎样写这个程序，就很容易理解这个程序了。
-//一直从下向上画圆，然后把下面的圆擦掉，就能得到一个向上升的烟花效果，
-//爆炸效果就是先画小圆再画大圆，然后擦掉小圆，再擦掉大圆。
